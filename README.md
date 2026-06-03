@@ -25,9 +25,17 @@ Estudante de **Desenvolvimento Full Stack Python** e entusiasta de tecnologia, d
 
 ---
 
+## 📊 Minhas Estatísticas do GitHub
+
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0pedrohalmeida0&layout=compact&theme=radial" alt="Linguagens mais usadas" />
+  <!-- Cartão de Estatísticas Gerais (Servidor Veloz) -->
+  <img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=0pedrohalmeida0&show_icons=true&theme=radial&include_all_commits=true&count_private=true" alt="Estatísticas Gerais" />
+
+  <!-- Cartão das Linguagens Mais Usadas (Servidor Veloz) -->
+  <img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=0pedrohalmeida0&layout=compact&theme=radial" alt="Linguagens Mais Usadas" />
 </p>
+
+---
 
 ⚡ *"Tenho que ser humilde e começar de baixo: um passo, uma linha de código e um problema de lógica por vez."*
 
