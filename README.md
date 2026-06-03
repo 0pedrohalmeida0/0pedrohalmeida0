@@ -1,7 +1,16 @@
 <div align="center">
 
 # Olá, eu sou o Pedro Henrique! 👋
-Estudante de Desenvolvimento Full Stack Python & Entusiasta de Tecnologia.
+Estudante de **Desenvolvimento Full Stack Python** e entusiasta de tecnologia, dados e lógica de programação. Atualmente, focado em construir uma base sólida em programação, saindo da teoria e aplicando os conceitos na prática, linha por linha.
+
+---
+
+### 🚀 Sobre Mim
+
+- 🎓 **Formação:** Bacharel em Relações Internacionais.
+- 🎯 **Foco Atual:** Transição de carreira para a área de Tecnologia/Desenvolvimento de Software.
+- ⚙️ **Metodologia de Estudos:** Aprendizado prático (*learn-by-doing*), resolvendo desafios de lógica e dissecando o funcionamento interno de cada bloco de código.
+- 🗺️ **Idiomas:** Português (Nativo) e Inglês (Em constante evolução).
 
 ---
 
@@ -16,23 +25,10 @@ Estudante de Desenvolvimento Full Stack Python & Entusiasta de Tecnologia.
 
 ---
 
-### Github stats 📊
+### 📫 Como me encontrar
 
-<p>Visitor's count 👁️</p>
-<img src="https://profile-counter.glitch.me/SEU-USUARIO/count.svg" alt="Visitor Count" />
+- 💼 [LinkedIn](www.linkedin.com/in/pedro-henrique-de-almeida-418892170)
+- 📧 [E-mail](phdealmeida3@gmail.com)
 
-<br><br>
+⚡ *"Tenho que ser humilde e começar de baixo: um passo, uma linha de código e um problema de lógica por vez."*
 
-### To learn 📚
-
-<!-- Card de Linguagens mais usadas -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0pedrohalmeida0&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Most Used Languages" />
-
-<br><br>
-
-### Profile stats 📈
-
-<!-- Card de Estatísticas Gerais do GitHub -->
-<img src="https://github-readme-stats.vercel.app/api?username=0pedrohalmeida0&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" alt="Pedro's GitHub Stats" />
-
-</div>
