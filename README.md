@@ -1,42 +1,38 @@
+<div align="center">
+
 # Olá, eu sou o Pedro Henrique! 👋
-
-Estudante de **Desenvolvimento Full Stack Python** e entusiasta de tecnologia, dados e lógica de programação. Atualmente, focado em construir uma base sólida em programação, saindo da teoria e aplicando os conceitos na prática, linha por linha.
-
----
-
-### 🚀 Sobre Mim
-
-- 🎓 **Formação:** Bacharel em Relações Internacionais.
-- 🎯 **Foco Atual:** Transição de carreira para a área de Tecnologia/Desenvolvimento de Software.
-- ⚙️ **Metodologia de Estudos:** Aprendizado prático (*learn-by-doing*), resolvendo desafios de lógica e dissecando o funcionamento interno de cada bloco de código.
-- 🗺️ **Idiomas:** Português (Nativo) e Inglês (Em constante evolução).
+Estudante de Desenvolvimento Full Stack Python & Entusiasta de Tecnologia.
 
 ---
 
-### 🛠️ Habilidades & Ferramentas em Desenvolvimento
+### My stack 🧩
 
-📋 **Linguagens e Lógica:**
-- Python (Lógica de programação, scripts e automações)
-- SQL (Estruturação de bancos de dados relacionais)
+<p>Essas são as tecnologias com as quais trabalho, estudo e desenvolvo meus projetos diariamente:</p>
 
-🗄️ **Frameworks & Banco de Dados:**
-- Django
-- MySQL
-
----
-
-### 📈 Estatísticas do GitHub
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-AQUI&show_icons=true&theme=radical&include_all_commits=true" alt="Estatísticas do GitHub de Pedro" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-AQUI&layout=compact&theme=radical&langs_count=6" alt="Linguagens mais usadas" height="150">
-</p>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ---
 
-### 📫 Como me encontrar
+### Github stats 📊
 
-- 💼 [LinkedIn](www.linkedin.com/in/pedro-henrique-de-almeida-418892170)
-- 📧 [E-mail](phdealmeida3@gmail.com)
+<p>Visitor's count 👁️</p>
+<img src="https://profile-counter.glitch.me/SEU-USUARIO/count.svg" alt="Visitor Count" />
 
-⚡ *"Tenho que ser humilde e começar de baixo: um passo, uma linha de código e um problema de lógica por vez."*
+<br><br>
+
+### To learn 📚
+
+<!-- Card de Linguagens mais usadas -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Most Used Languages" />
+
+<br><br>
+
+### Profile stats 📈
+
+<!-- Card de Estatísticas Gerais do GitHub -->
+<img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" alt="Pedro's GitHub Stats" />
+
+</div>
