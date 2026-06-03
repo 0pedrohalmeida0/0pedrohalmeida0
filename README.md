@@ -26,13 +26,13 @@ Estudante de Desenvolvimento Full Stack Python & Entusiasta de Tecnologia.
 ### To learn 📚
 
 <!-- Card de Linguagens mais usadas -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Most Used Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0pedrohalmeida0&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Most Used Languages" />
 
 <br><br>
 
 ### Profile stats 📈
 
 <!-- Card de Estatísticas Gerais do GitHub -->
-<img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" alt="Pedro's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=0pedrohalmeida0&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" alt="Pedro's GitHub Stats" />
 
 </div>
