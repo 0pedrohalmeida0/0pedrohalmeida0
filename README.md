@@ -25,5 +25,8 @@ Estudante de **Desenvolvimento Full Stack Python** e entusiasta de tecnologia, d
 
 ---
 
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0pedrohalmeida0&layout=compact&theme=radial" />
+</p>
+
 ⚡ *"Tenho que ser humilde e começar de baixo: um passo, uma linha de código e um problema de lógica por vez."*
 
