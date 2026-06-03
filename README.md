@@ -25,10 +25,5 @@ Estudante de **Desenvolvimento Full Stack Python** e entusiasta de tecnologia, d
 
 ---
 
-### 📫 Como me encontrar
-
-- 💼 [LinkedIn](www.linkedin.com/in/pedro-henrique-de-almeida-418892170)
-- 📧 [E-mail](phdealmeida3@gmail.com)
-
 ⚡ *"Tenho que ser humilde e começar de baixo: um passo, uma linha de código e um problema de lógica por vez."*
 
