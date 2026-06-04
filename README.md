@@ -8,6 +8,7 @@ Estudante de **Desenvolvimento Full Stack Python** e entusiasta de tecnologia, d
 ### 🚀 Sobre Mim
 
 - 🎓 **Formação:** Bacharel em Relações Internacionais.
+- 🎓 **Formação em Dev:** Aluno do curso **Desenvolvedor Full Stack Python** na **EBAC** (Escola Britânica de Artes Criativas e Tecnologia).
 - 🎯 **Foco Atual:** Transição de carreira para a área de Tecnologia/Desenvolvimento de Software.
 - ⚙️ **Metodologia de Estudos:** Aprendizado prático (*learn-by-doing*), resolvendo desafios de lógica e dissecando o funcionamento interno de cada bloco de código.
 - 🗺️ **Idiomas:** Português (Nativo) e Inglês (Em constante evolução).
