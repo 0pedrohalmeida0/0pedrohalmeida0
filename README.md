@@ -58,5 +58,16 @@ Estudante de **Desenvolvimento Full Stack Python** e entusiasta de tecnologia, d
 <br>
 *"Humility to start from the ground up: one step, one line of code, and one logic challenge at a time."*
 
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arelove/arelove/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arelove/arelove/output/github-snake.svg"/>
+    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/arelove/arelove/output/github-snake-dark.svg"/>
+  </picture>
+</div>
+
 </div>
 
