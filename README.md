@@ -1,23 +1,32 @@
 <div align="center">
 
-# Olá, eu sou o Pedro Henrique! 👋 (Hi, I'm Pedro Henrique!)
+# Olá, eu sou Pedro Henrique Almeida 👋
 
-Estudante de **Desenvolvimento Full Stack Python** e entusiasta de tecnologia, dados e lógica de programação. Atualmente, focado em construir uma base sólida em engenharia de software, saindo da teoria e aplicando os conceitos na prática, linha por linha.
+### Full Stack Python Developer
 
-*Full-Stack Python Developer student and enthusiast of technology, data, and programming logic. Currently focused on building a solid foundation in software engineering, moving from theory to practice, line by line.*
+Profissional em transição para a área de Tecnologia, com formação em Relações Internacionais e experiência em logística, faturamento e processos empresariais. Atualmente desenvolvo soluções web utilizando Python, Django e bancos de dados relacionais, combinando conhecimento de negócio e tecnologia para resolver problemas reais.
+
+*Technology professional in transition from International Relations, with experience in logistics, invoicing, and business operations. Currently building web solutions with Python, Django, and relational databases, combining business knowledge and technology to solve real-world problems.*
+
+📍 Rio Grande do Sul, Brasil
+💼 LinkedIn: [www.linkedin.com/in/pedrohenriquedealmeida3](http://www.linkedin.com/in/pedrohenriquedealmeida3)
+📧 [phdealmeida3@gmail.com](mailto:phdealmeida3@gmail.com)
 
 ---
 
-### My Stack 🧩
+### 🧩 Tech Stack
+
 <p align="center">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/sqlite-%2307405E.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/sqlite-%2307405E.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 </div>
@@ -26,49 +35,96 @@ Estudante de **Desenvolvimento Full Stack Python** e entusiasta de tecnologia, d
 
 ## 🇧🇷 Sobre Mim
 
-- 🎓 **Formação:** Bacharel em Relações Internacionais.
-- 🎓 **Formação em Dev:** Aluno do curso **Desenvolvedor Full Stack Python** na **EBAC** (Escola Britânica de Artes Criativas e Tecnologia).
-- 🎯 **Foco Atual:** Transição de carreira para a área de Tecnologia / Desenvolvimento de Software.
-- ⚙️ **Metodologia de Estudos:** Aprendizado prático (*learn-by-doing*), resolvendo desafios de lógica e dissecando o funcionamento interno de cada bloco de código para dominar os fundamentos.
-- 🗺️ **Idiomas:** Português (Nativo) e Inglês (Em constante evolução).
+🎓 Bacharel em Relações Internacionais.
+
+💻 Estudante de Desenvolvimento Full Stack Python pela EBAC.
+
+🚀 Focado em desenvolvimento web, automação de processos, APIs REST, bancos de dados relacionais e arquitetura de software.
+
+📦 Experiência profissional em logística, controle de estoque, faturamento, ERP e processos empresariais.
+
+🧠 Aprendizado baseado em prática (*learn by doing*), construindo projetos completos para consolidar fundamentos de programação e engenharia de software.
+
+🌎 Idiomas:
+
+* Português (Nativo)
+* Inglês (B2 – Upper Intermediate)
 
 ---
 
-## 🇺🇸 About Me
+🇺🇸 About Me
 
-- 🎓 **Background:** Bachelor's Degree in International Relations.
-- 🎓 **Tech Education:** Software Engineering Student specializing in **Full Stack Python** at **EBAC** (British School of Creative Arts and Technology).
-- 🎯 **Current Focus:** Career transition into Technology and Software Development.
-- ⚙️ **Study Methodology:** Hands-on learning (*learn-by-doing*), solving logic challenges and dissecting the inner workings of every code block to master the fundamentals.
-- 🗺️ **Languages:** Portuguese (Native) and English (Constantly evolving).
+🎓 Bachelor's Degree in International Relations.
+
+💻 Full Stack Python Student at EBAC.
+
+🚀 Focused on web development, process automation, REST APIs, relational databases, and software architecture.
+
+📦 Professional background in logistics, inventory management, invoicing, ERP systems, and business operations.
+
+🧠 Hands-on learning approach, building complete projects to strengthen software engineering fundamentals.
+
+🌎 Languages:
+
+Portuguese (Native)
+English (B2 – Upper Intermediate)
+
+---
+
+## Current Focus
+
+* Python & Django
+* REST APIs
+* Relational Databases
+* Software Architecture
+* Process Automation
+* Progressive Web Apps (PWA)
+* Business-Oriented Software Solutions
+
+---
+
+## Featured Projects
+
+### FlowLog
+
+Inventory management system developed with Python and MySQL, featuring stock control, supplier management, movement history, critical stock alerts, SQL Injection protection and ABC Curve analysis for business intelligence and operational decision-making.
+
+### Portal Mirella Bays
+
+Custom educational management platform developed for a real client, focused on educational content organization, student management and administrative process automation.
+
+### Vocabulário Erudito
+
+Progressive Web App (PWA) built with Django and SQLite, designed to expand vocabulary in Portuguese, English and German, featuring offline support, intelligent caching and daily learning notifications.
+
+### Oracle 3D
+
+Interactive 3D graphics project developed with Three.js, featuring real-time rendering, physics simulation, dynamic lighting and advanced user interaction.
 
 ---
 
 <div align="center">
 
-## 📊 Minhas Estatísticas do GitHub / GitHub Stats
+## 📊 GitHub Statistics
 
+<img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=0pedrohalmeida0&show_icons=true&theme=radial&include_all_commits=true&count_private=true" />
 
-<img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=0pedrohalmeida0&show_icons=true&theme=radial&include_all_commits=true&count_private=true" alt="Estatísticas Gerais" />
-
-<img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=0pedrohalmeida0&layout=compact&theme=radial" alt="Linguagens Mais Usadas" />
+<img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=0pedrohalmeida0&layout=compact&theme=radial" />
 
 ---
-
-⚡ *"Tenho que ser humilde e começar de baixo: um passo, uma linha de código e um problema de lógica por vez."*
-<br>
-*"Humility to start from the ground up: one step, one line of code, and one logic challenge at a time."*
-
 
 ## 🐍 Contribution Snake
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arelove/arelove/output/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arelove/arelove/output/github-snake.svg"/>
-    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/arelove/arelove/output/github-snake-dark.svg"/>
-  </picture>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arelove/arelove/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arelove/arelove/output/github-snake.svg"/>
+  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/arelove/arelove/output/github-snake-dark.svg"/>
+</picture>
+
+---
+
+### 💡 Philosophy
+
+*"Building software to solve real-world operational problems."*
 
 </div>
-
