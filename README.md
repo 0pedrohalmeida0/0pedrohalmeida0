@@ -52,7 +52,7 @@ Profissional em transição para a área de Tecnologia, com formação em Relaç
 
 ---
 
-🇺🇸 About Me
+## 🇺🇸 About Me
 
 🎓 Bachelor's Degree in International Relations.
 
