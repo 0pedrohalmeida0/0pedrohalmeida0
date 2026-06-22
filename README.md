@@ -16,7 +16,8 @@ Profissional em transição para a área de Tecnologia, com formação em Relaç
 
 ### My Stack:
 
-Front-End 
+<details open>
+<summary><b>🎨 Frontend</b></summary>
 <p align="center">
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /> 
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
@@ -25,7 +26,8 @@ Front-End
 <img src="https://img.shields.io/badge/three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" />
 </p>
 
-Back-End
+<details open>
+<summary><b>⚙️ Backend & Databases</b></summary>
 <p align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
