@@ -25,6 +25,7 @@ Profissional em transição para a área de Tecnologia, com formação em Relaç
 <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" />
 </p>
+</details>  
 
 <details open>
 <summary><b>⚙️ Backend & Databases</b></summary>
