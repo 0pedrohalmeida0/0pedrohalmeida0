@@ -98,7 +98,7 @@ English (B2 – Upper Intermediate)
 
 Inventory management system developed with Python and MySQL, featuring stock control, supplier management, movement history, critical stock alerts, SQL Injection protection and ABC Curve analysis for business intelligence and operational decision-making.
 
-### Portal Mirella Bays
+### Portal Educacional
 
 Custom educational management platform developed for a real client, focused on educational content organization, student management and administrative process automation.
 
