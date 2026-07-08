@@ -4,9 +4,9 @@
 
 ### Full Stack Python Developer
 
-Profissional em transição para a área de Tecnologia, com formação em Relações Internacionais e experiência em logística, faturamento e processos empresariais. Atualmente desenvolvo soluções web utilizando Python, Django e bancos de dados relacionais, combinando conhecimento de negócio e tecnologia para resolver problemas reais.
+Profissional da área de Tecnologia, com formação em Relações Internacionais e experiência em logística, faturamento e processos empresariais. Atualmente desenvolvo soluções web utilizando Python, Django e bancos de dados relacionais, combinando conhecimento de negócio e tecnologia para resolver problemas reais.
 
-*Technology professional in transition from International Relations, with experience in logistics, invoicing, and business operations. Currently building web solutions with Python, Django, and relational databases, combining business knowledge and technology to solve real-world problems.*
+*Technology professional with experience in International Relations and logistics, invoicing, and business operations. Currently building web solutions with Python, Django, and relational databases, combining business knowledge and technology to solve real-world problems.*
 
 📍 Rio Grande do Sul, Brasil
 💼 LinkedIn: [www.linkedin.com/in/pedrohenriquedealmeida3](http://www.linkedin.com/in/pedrohenriquedealmeida3)
