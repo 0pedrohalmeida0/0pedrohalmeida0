@@ -65,8 +65,8 @@ Profissional da área de Tecnologia, com formação em Relações Internacionais
 
 🌎 Languages:
 
-Portuguese (Native)
-English (B2)
+* Portuguese (Native)
+* English (B2)
 
 ---
 
