@@ -1,6 +1,6 @@
 <div align="center">
 
-# Oiii, meu nome é Pedro!
+# Opa, meu nome é Pedro!
 
 ### Full Stack Python Developer
 
