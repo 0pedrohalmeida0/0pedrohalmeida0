@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hello, 🫡!
+# Hello,👋! 
 
 ### Full Stack Python Developer
 
